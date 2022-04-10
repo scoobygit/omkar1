@@ -1,2 +1,1 @@
 file d
-hi all
